@@ -1,0 +1,17 @@
+To run this code, please download to your local machine, and place in a folder.
+
+You will need to place the metadata.csv and stats.csv data just outside of the folder used for the code.
+
+for example
+-source code
+H:\VideoApp\
+
+-files
+H:\metadata.csv
+H:\stats.csv
+
+To run the web app open this in VSCode or VisualStudio, and run the code from there by pressing f5
+
+Any posts to the program will write the data out to a file called "Database.txt" this can be found in the code folder for example "H:\VideoApp\Database.txt"
+
+Any problems with this, or running this code please contact me.
